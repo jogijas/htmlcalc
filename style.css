@@ -1,0 +1,49 @@
+@font-face{
+font-family:Segment7Standarad;
+src:url("Segment7Standarad.ttf");
+}
+#display{
+font-family:Segment7Standarad;
+width:485px;
+margin:auto;
+height:42px;
+color:#6f0;
+background:#333;
+border-top:5px solid #333;
+border-left:5px solid #333;
+border-bottom:5px solid #eef;
+border-right:5px solid #eef;
+text-align:right;
+font-size:40px;
+font-style:bold;
+padding-right:15px;
+}
+.calcontner{
+width:510px;
+height:420px;
+border:5px solid #666;
+margin:auto;
+background:#aaa;
+box-shadow:8px 8px #ccc;
+}
+.btncontainer{
+  width:450px;
+  margin:auto;
+}
+.empty{height:116px;
+  color:#ddd;
+  font-size:40px;
+  text-align:center;
+  text-shadow:3px 3px #444
+}
+
+button{
+  width:85px;
+  height:50px;
+  font-size:35px;
+  font-style:bold;
+  text-align:center;
+  margin-bottom:5px;
+  //border-top:2px solid #fff;
+  //border-left:2px solid #fff;
+}
